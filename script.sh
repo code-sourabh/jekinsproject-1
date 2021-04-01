@@ -1,2 +1,3 @@
-echo "today's date is"
+echo "today's date is 47"
 date
+cal
